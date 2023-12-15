@@ -1,0 +1,501 @@
+Loan_ID,loan_status,Principal,terms,effective_date,due_date,paid_off_time,past_due_days,age,education,Gender,loan_duration
+1,paidoff,1000,30,9/8/2016,10/7/2016,9/14/2016 19:31,,45,High School or Below,male,6
+2,paidoff,1000,30,9/8/2016,10/7/2016,10/7/2016 9:00,,50,Bachelor,female,29
+3,paidoff,1000,30,9/8/2016,10/7/2016,9/25/2016 16:58,,33,Bachelor,female,17
+4,paidoff,1000,15,9/8/2016,9/22/2016,9/22/2016 20:00,,27,college,male,14
+5,paidoff,1000,30,9/9/2016,10/8/2016,9/23/2016 21:36,,28,college,female,14
+6,paidoff,300,7,9/9/2016,9/15/2016,9/9/2016 13:45,,35,Master or Above,male,0
+7,paidoff,1000,30,9/9/2016,10/8/2016,10/7/2016 23:07,,29,college,male,28
+8,paidoff,1000,30,9/9/2016,10/8/2016,10/5/2016 20:33,,36,college,male,26
+9,paidoff,1000,30,9/9/2016,10/8/2016,10/8/2016 16:00,,28,college,male,29
+10,paidoff,800,15,9/10/2016,9/24/2016,9/24/2016 13:00,,26,college,male,14
+11,paidoff,300,7,9/10/2016,9/16/2016,9/11/2016 19:11,,29,college,male,1
+12,paidoff,1000,15,9/10/2016,10/9/2016,10/9/2016 16:00,,39,High School or Below,male,29
+13,paidoff,1000,30,9/10/2016,10/9/2016,10/7/2016 23:32,,26,college,male,27
+14,paidoff,900,7,9/10/2016,9/16/2016,9/13/2016 21:57,,26,college,female,3
+15,paidoff,1000,7,9/10/2016,9/16/2016,9/15/2016 14:27,,27,High School or Below,male,5
+16,paidoff,800,15,9/10/2016,9/24/2016,9/24/2016 16:00,,26,college,male,14
+17,paidoff,1000,30,9/10/2016,10/9/2016,9/27/2016 14:21,,40,High School or Below,male,17
+18,paidoff,1000,15,9/10/2016,9/24/2016,9/23/2016 18:49,,32,High School or Below,male,13
+19,paidoff,1000,30,9/10/2016,10/9/2016,10/5/2016 22:05,,32,High School or Below,male,25
+20,paidoff,800,30,9/10/2016,10/9/2016,9/23/2016 7:42,,26,college,male,13
+21,paidoff,1000,30,9/10/2016,10/9/2016,10/9/2016 9:00,,26,college,male,29
+22,paidoff,1000,30,9/10/2016,10/9/2016,10/8/2016 17:09,,43,High School or Below,female,28
+23,paidoff,1000,30,9/10/2016,10/9/2016,10/9/2016 23:00,,25,High School or Below,male,29
+24,paidoff,1000,15,9/10/2016,9/24/2016,9/24/2016 13:00,,26,college,male,14
+25,paidoff,1000,30,9/10/2016,10/9/2016,10/3/2016 12:50,,26,college,male,23
+26,paidoff,1000,30,9/10/2016,10/9/2016,9/29/2016 12:18,,29,High School or Below,male,19
+27,paidoff,800,15,9/10/2016,9/24/2016,9/21/2016 20:16,,39,Bachelor,male,11
+28,paidoff,1000,15,9/10/2016,9/24/2016,9/23/2016 8:21,,34,Bachelor,male,13
+29,paidoff,1000,30,9/11/2016,10/10/2016,9/22/2016 19:17,,31,college,male,11
+30,paidoff,1000,30,9/11/2016,10/10/2016,10/9/2016 17:33,,33,college,male,28
+31,paidoff,800,15,9/11/2016,9/25/2016,9/24/2016 14:41,,33,High School or Below,male,13
+32,paidoff,1000,30,9/11/2016,10/10/2016,10/7/2016 21:48,,37,college,male,26
+33,paidoff,1000,30,9/11/2016,10/10/2016,10/9/2016 17:44,,27,college,male,28
+34,paidoff,1000,30,9/11/2016,10/10/2016,10/9/2016 7:24,,37,college,male,28
+35,paidoff,800,15,9/11/2016,9/25/2016,9/25/2016 21:49,,33,college,male,14
+36,paidoff,800,15,9/11/2016,9/25/2016,9/25/2016 9:00,,29,Bachelor,male,14
+37,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 16:00,,27,High School or Below,male,29
+38,paidoff,700,15,9/11/2016,9/25/2016,9/25/2016 13:00,,33,High School or Below,male,14
+39,paidoff,1000,15,9/11/2016,9/25/2016,9/25/2016 9:00,,24,college,male,14
+40,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 11:33,,21,Bachelor,male,29
+41,paidoff,1000,15,9/11/2016,9/25/2016,9/25/2016 9:00,,32,college,female,14
+42,paidoff,800,15,9/11/2016,9/25/2016,9/25/2016 14:36,,30,college,male,14
+43,paidoff,1000,7,9/11/2016,9/24/2016,9/24/2016 9:00,,31,Bachelor,male,13
+44,paidoff,1000,15,9/11/2016,9/25/2016,9/20/2016 15:00,,30,college,male,9
+45,paidoff,1000,15,9/11/2016,9/25/2016,9/21/2016 22:29,,24,Bachelor,female,10
+46,paidoff,800,7,9/11/2016,9/17/2016,9/12/2016 22:17,,35,High School or Below,male,1
+47,paidoff,1000,30,9/11/2016,10/10/2016,10/8/2016 14:14,,22,High School or Below,male,27
+48,paidoff,1000,30,9/11/2016,10/10/2016,10/9/2016 8:53,,32,college,male,28
+49,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 9:00,,32,Bachelor,male,29
+50,paidoff,800,15,9/11/2016,9/25/2016,9/25/2016 19:21,,50,High School or Below,male,14
+51,paidoff,800,15,9/11/2016,9/25/2016,9/25/2016 13:00,,27,college,female,14
+52,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 9:00,,35,Bachelor,female,29
+53,paidoff,800,15,9/11/2016,9/25/2016,9/13/2016 4:34,,35,Bachelor,female,2
+54,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 9:00,,34,High School or Below,male,29
+55,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 16:00,,21,High School or Below,male,29
+56,paidoff,1000,15,9/11/2016,9/25/2016,9/25/2016 16:00,,25,college,male,14
+57,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 9:00,,27,High School or Below,male,29
+58,paidoff,1000,30,9/11/2016,10/10/2016,10/7/2016 2:33,,26,Bachelor,male,26
+59,paidoff,800,15,9/11/2016,9/25/2016,9/24/2016 11:40,,44,High School or Below,female,13
+60,paidoff,800,15,9/11/2016,9/25/2016,9/22/2016 6:38,,39,Master or Above,male,11
+61,paidoff,1000,30,9/11/2016,10/10/2016,9/30/2016 21:12,,34,Bachelor,male,19
+62,paidoff,1000,15,9/11/2016,9/25/2016,9/24/2016 13:42,,37,college,male,13
+63,paidoff,1000,30,9/11/2016,10/10/2016,10/8/2016 7:25,,34,High School or Below,male,27
+64,paidoff,1000,30,9/11/2016,10/10/2016,9/12/2016 11:40,,45,college,male,1
+65,paidoff,800,15,9/11/2016,9/25/2016,9/25/2016 14:38,,24,High School or Below,male,14
+66,paidoff,900,15,9/11/2016,9/25/2016,9/25/2016 23:00,,28,college,male,14
+67,paidoff,1000,30,9/11/2016,10/10/2016,10/8/2016 12:04,,28,Bachelor,male,27
+68,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 9:00,,37,High School or Below,male,29
+69,paidoff,300,7,9/11/2016,9/17/2016,9/14/2016 22:05,,35,college,male,3
+70,paidoff,1000,30,9/11/2016,10/10/2016,9/24/2016 13:27,,43,Bachelor,male,13
+71,paidoff,800,15,9/11/2016,9/25/2016,9/22/2016 21:18,,29,college,male,11
+72,paidoff,800,15,9/11/2016,9/25/2016,9/24/2016 22:53,,29,High School or Below,male,13
+73,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 16:00,,33,Bachelor,female,29
+74,paidoff,1000,15,9/11/2016,9/25/2016,9/25/2016 9:00,,34,college,male,14
+75,paidoff,1000,15,9/11/2016,9/25/2016,9/25/2016 9:00,,25,college,male,14
+76,paidoff,1000,30,9/11/2016,10/10/2016,10/8/2016 13:12,,30,High School or Below,male,27
+77,paidoff,1000,30,9/11/2016,10/10/2016,10/9/2016 13:49,,31,Bachelor,male,28
+78,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 9:00,,35,college,male,29
+79,paidoff,1000,30,9/11/2016,10/10/2016,9/30/2016 14:29,,37,college,female,19
+80,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 9:00,,44,High School or Below,female,29
+81,paidoff,1000,30,9/11/2016,10/10/2016,9/21/2016 16:18,,28,High School or Below,male,10
+82,paidoff,1000,7,9/11/2016,9/17/2016,9/13/2016 14:53,,25,college,male,2
+83,paidoff,1000,15,9/11/2016,9/25/2016,9/25/2016 9:00,,29,college,male,14
+84,paidoff,800,15,9/11/2016,9/25/2016,9/25/2016 13:00,,33,college,male,14
+85,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 13:00,,37,High School or Below,female,29
+86,paidoff,1000,30,9/11/2016,11/9/2016,11/9/2016 9:00,,33,college,male,59
+87,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 9:00,,24,High School or Below,female,29
+88,paidoff,1000,30,9/11/2016,10/10/2016,9/17/2016 13:01,,27,college,female,6
+89,paidoff,800,15,9/11/2016,9/25/2016,9/21/2016 9:35,,43,Bachelor,male,10
+90,paidoff,800,15,9/11/2016,9/25/2016,9/24/2016 20:33,,46,High School or Below,female,13
+91,paidoff,800,15,9/11/2016,9/25/2016,9/25/2016 9:00,,34,college,female,14
+92,paidoff,1000,7,9/11/2016,9/17/2016,9/17/2016 9:00,,32,Bachelor,female,6
+93,paidoff,800,15,9/11/2016,9/25/2016,9/24/2016 0:12,,38,High School or Below,male,13
+94,paidoff,800,15,9/11/2016,9/25/2016,9/21/2016 12:43,,27,High School or Below,male,10
+95,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 13:00,,33,High School or Below,male,29
+96,paidoff,1000,30,9/11/2016,10/10/2016,10/8/2016 20:49,,36,college,male,27
+97,paidoff,1000,15,9/11/2016,9/25/2016,9/20/2016 5:38,,26,High School or Below,male,9
+98,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 9:01,,34,college,male,29
+99,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 9:01,,22,High School or Below,male,29
+100,paidoff,1000,30,9/11/2016,10/10/2016,10/8/2016 16:55,,31,Bachelor,female,27
+101,paidoff,1000,7,9/11/2016,9/17/2016,9/17/2016 9:00,,29,High School or Below,male,6
+102,paidoff,800,15,9/11/2016,9/25/2016,9/25/2016 9:00,,38,college,male,14
+103,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 16:00,,30,college,male,29
+104,paidoff,1000,15,9/11/2016,9/25/2016,9/25/2016 23:48,,45,High School or Below,male,14
+105,paidoff,1000,15,9/11/2016,9/25/2016,9/22/2016 13:15,,35,college,male,11
+106,paidoff,1000,30,9/11/2016,10/10/2016,9/23/2016 13:31,,30,college,male,12
+107,paidoff,1000,30,9/11/2016,10/10/2016,10/8/2016 17:19,,31,High School or Below,male,27
+108,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 9:01,,31,High School or Below,male,29
+109,paidoff,1000,30,9/11/2016,10/10/2016,10/9/2016 13:05,,28,college,male,28
+110,paidoff,1000,7,9/11/2016,9/24/2016,9/24/2016 13:00,,29,college,male,13
+111,paidoff,800,15,9/11/2016,9/25/2016,9/20/2016 20:47,,29,college,male,9
+112,paidoff,1000,30,9/11/2016,11/9/2016,11/9/2016 9:00,,27,college,female,59
+113,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 9:01,,27,college,male,29
+114,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 13:01,,33,college,male,29
+115,paidoff,1000,30,9/11/2016,10/10/2016,10/8/2016 21:39,,28,college,male,27
+116,paidoff,1000,15,9/11/2016,9/25/2016,9/25/2016 23:00,,25,High School or Below,male,14
+117,paidoff,1000,30,9/11/2016,10/10/2016,10/7/2016 14:23,,40,college,male,26
+118,paidoff,1000,30,9/11/2016,10/10/2016,10/6/2016 15:25,,23,High School or Below,male,25
+119,paidoff,1000,30,9/11/2016,10/10/2016,10/8/2016 6:56,,35,Bachelor,male,27
+120,paidoff,800,15,9/11/2016,9/25/2016,9/16/2016 11:58,,24,college,male,5
+121,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 16:01,,34,college,male,29
+122,paidoff,1000,30,9/11/2016,10/10/2016,9/27/2016 7:02,,22,High School or Below,male,16
+123,paidoff,1000,15,9/11/2016,10/25/2016,10/25/2016 9:00,,20,college,male,44
+124,paidoff,1000,15,9/11/2016,9/25/2016,9/24/2016 11:02,,23,college,male,13
+125,paidoff,1000,30,9/11/2016,10/10/2016,9/29/2016 18:57,,33,college,male,18
+126,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 13:01,,26,college,male,29
+127,paidoff,1000,15,9/11/2016,9/25/2016,9/25/2016 9:00,,28,High School or Below,male,14
+128,paidoff,800,15,9/11/2016,9/25/2016,9/25/2016 12:24,,43,High School or Below,male,14
+129,paidoff,1000,15,9/11/2016,9/25/2016,9/25/2016 13:00,,34,Bachelor,male,14
+130,paidoff,1000,30,9/11/2016,10/10/2016,9/26/2016 4:41,,38,Bachelor,male,15
+131,paidoff,1000,15,9/11/2016,9/25/2016,9/22/2016 15:44,,26,High School or Below,male,11
+132,paidoff,800,15,9/11/2016,9/25/2016,9/25/2016 16:00,,43,High School or Below,male,14
+133,paidoff,1000,30,9/11/2016,10/10/2016,10/10/2016 16:13,,26,High School or Below,male,29
+134,paidoff,1000,30,9/11/2016,10/10/2016,9/30/2016 7:12,,33,college,female,19
+135,paidoff,800,15,9/11/2016,9/25/2016,9/23/2016 11:26,,24,college,male,12
+136,paidoff,1000,30,9/11/2016,10/10/2016,9/12/2016 10:26,,30,High School or Below,male,1
+137,paidoff,800,15,9/11/2016,9/25/2016,9/25/2016 13:00,,32,High School or Below,female,14
+138,paidoff,1000,15,9/11/2016,10/25/2016,10/25/2016 9:00,,22,college,male,44
+139,paidoff,1000,15,9/11/2016,9/25/2016,9/22/2016 21:45,,47,High School or Below,male,11
+140,paidoff,1000,30,9/11/2016,10/10/2016,10/9/2016 20:28,,20,High School or Below,male,28
+141,paidoff,1000,30,9/11/2016,10/10/2016,10/1/2016 16:48,,28,High School or Below,male,20
+142,paidoff,800,15,9/11/2016,9/25/2016,9/25/2016 9:01,,35,college,male,14
+143,paidoff,1000,7,9/11/2016,9/17/2016,9/15/2016 20:36,,27,High School or Below,male,4
+144,paidoff,800,15,9/11/2016,9/25/2016,9/21/2016 15:33,,33,college,female,10
+145,paidoff,1000,30,9/11/2016,10/10/2016,9/29/2016 13:36,,30,High School or Below,male,18
+146,paidoff,1000,15,9/11/2016,9/25/2016,9/22/2016 20:51,,31,college,male,11
+147,paidoff,1000,30,9/11/2016,11/9/2016,11/9/2016 23:00,,26,college,female,59
+148,paidoff,300,7,9/12/2016,9/18/2016,9/18/2016 9:00,,37,Master or Above,male,6
+149,paidoff,1000,15,9/12/2016,9/26/2016,9/26/2016 9:00,,26,Bachelor,male,14
+150,paidoff,800,15,9/12/2016,9/26/2016,9/24/2016 10:14,,35,Bachelor,male,12
+151,paidoff,1000,15,9/12/2016,10/26/2016,10/26/2016 9:00,,29,college,male,44
+152,paidoff,800,15,9/12/2016,9/26/2016,9/23/2016 20:30,,23,college,male,11
+153,paidoff,500,15,9/12/2016,9/26/2016,9/13/2016 20:17,,23,college,female,1
+154,paidoff,1000,15,9/12/2016,9/26/2016,9/26/2016 9:00,,30,college,male,14
+155,paidoff,1000,30,9/12/2016,10/11/2016,10/10/2016 7:01,,34,college,male,28
+156,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 13:00,,36,High School or Below,female,29
+157,paidoff,1000,15,9/12/2016,9/26/2016,9/26/2016 9:00,,26,Bachelor,male,14
+158,paidoff,800,15,9/12/2016,9/26/2016,9/24/2016 14:55,,29,High School or Below,male,12
+159,paidoff,1000,15,9/12/2016,9/26/2016,9/26/2016 9:00,,28,college,female,14
+160,paidoff,1000,30,9/12/2016,10/11/2016,9/25/2016 20:56,,27,High School or Below,male,13
+161,paidoff,1000,15,9/12/2016,9/26/2016,9/22/2016 10:49,,24,High School or Below,male,10
+162,paidoff,800,15,9/12/2016,9/26/2016,9/25/2016 22:09,,31,Bachelor,male,13
+163,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 9:00,,28,High School or Below,male,29
+164,paidoff,1000,15,9/12/2016,9/26/2016,9/26/2016 9:00,,27,college,female,14
+165,paidoff,1000,15,9/12/2016,9/26/2016,9/26/2016 19:33,,25,High School or Below,male,14
+166,paidoff,1000,30,9/12/2016,11/10/2016,11/10/2016 16:00,,24,High School or Below,male,59
+167,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 16:00,,28,college,male,29
+168,paidoff,800,30,9/12/2016,10/11/2016,10/11/2016 16:00,,28,college,male,29
+169,paidoff,1000,15,9/12/2016,9/26/2016,9/26/2016 13:00,,35,High School or Below,male,14
+170,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 13:00,,38,college,male,29
+171,paidoff,1000,15,9/12/2016,9/26/2016,9/26/2016 16:00,,38,High School or Below,male,14
+172,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 16:00,,29,college,male,29
+173,paidoff,800,15,9/12/2016,9/26/2016,9/26/2016 13:00,,35,High School or Below,male,14
+174,paidoff,1000,30,9/12/2016,10/11/2016,9/17/2016 7:39,,24,college,male,5
+175,paidoff,800,15,9/12/2016,9/26/2016,9/22/2016 10:30,,39,High School or Below,male,10
+176,paidoff,800,15,9/12/2016,9/26/2016,9/26/2016 13:00,,25,college,male,14
+177,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 16:00,,38,High School or Below,male,29
+178,paidoff,1000,30,9/12/2016,10/11/2016,10/10/2016 20:41,,30,college,male,28
+179,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 9:00,,21,High School or Below,male,29
+180,paidoff,1000,30,9/12/2016,10/11/2016,10/10/2016 8:04,,46,college,male,28
+181,paidoff,1000,15,9/12/2016,9/26/2016,9/24/2016 11:00,,31,High School or Below,female,12
+182,paidoff,300,7,9/12/2016,9/18/2016,9/17/2016 9:25,,29,High School or Below,male,5
+183,paidoff,1000,30,9/12/2016,10/11/2016,10/7/2016 11:53,,35,High School or Below,male,25
+184,paidoff,800,15,9/12/2016,9/26/2016,9/25/2016 8:39,,30,High School or Below,male,13
+185,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 9:00,,27,High School or Below,male,29
+186,paidoff,1000,30,9/12/2016,10/11/2016,10/10/2016 20:28,,31,High School or Below,female,28
+187,paidoff,1000,30,9/12/2016,10/11/2016,10/1/2016 10:18,,33,Bachelor,male,19
+188,paidoff,1000,15,9/12/2016,9/26/2016,9/26/2016 16:00,,34,High School or Below,male,14
+189,paidoff,800,15,9/12/2016,9/26/2016,9/19/2016 21:07,,28,college,male,7
+190,paidoff,800,15,9/12/2016,9/26/2016,9/26/2016 9:00,,42,college,male,14
+191,paidoff,1000,30,9/12/2016,10/11/2016,9/30/2016 14:38,,32,college,male,18
+192,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 13:00,,30,High School or Below,male,29
+193,paidoff,1000,15,9/12/2016,9/26/2016,9/14/2016 20:31,,25,High School or Below,female,2
+194,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 9:00,,27,High School or Below,female,29
+195,paidoff,800,15,9/12/2016,9/26/2016,9/24/2016 16:15,,21,college,male,12
+196,paidoff,1000,30,9/12/2016,10/11/2016,10/10/2016 15:49,,24,college,male,28
+197,paidoff,1000,30,9/12/2016,11/10/2016,11/10/2016 13:00,,29,college,male,59
+198,paidoff,1000,15,9/12/2016,9/26/2016,9/23/2016 10:32,,40,college,male,11
+199,paidoff,1000,30,9/12/2016,10/11/2016,9/30/2016 14:03,,29,High School or Below,male,18
+200,paidoff,1000,30,9/12/2016,10/11/2016,10/9/2016 14:17,,29,college,male,27
+201,paidoff,1000,15,9/12/2016,9/26/2016,9/20/2016 8:26,,30,college,male,8
+202,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 23:00,,26,High School or Below,female,29
+203,paidoff,1000,15,9/12/2016,9/26/2016,9/24/2016 20:47,,36,High School or Below,male,12
+204,paidoff,800,15,9/12/2016,9/26/2016,9/26/2016 16:00,,27,college,male,14
+205,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 9:01,,20,college,male,29
+206,paidoff,1000,7,9/12/2016,9/18/2016,9/16/2016 14:52,,26,Bachelor,female,4
+207,paidoff,1000,30,9/12/2016,11/10/2016,11/10/2016 13:00,,26,college,male,59
+208,paidoff,1000,30,9/12/2016,10/11/2016,10/9/2016 10:00,,27,college,male,27
+209,paidoff,300,7,9/12/2016,9/18/2016,9/12/2016 14:40,,23,High School or Below,male,0
+210,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 16:00,,39,High School or Below,male,29
+211,paidoff,1000,15,9/12/2016,9/26/2016,9/23/2016 21:58,,27,High School or Below,male,11
+212,paidoff,1000,30,9/12/2016,10/11/2016,10/8/2016 18:48,,30,High School or Below,male,26
+213,paidoff,1000,30,9/12/2016,10/11/2016,10/10/2016 16:41,,33,High School or Below,female,28
+214,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 13:01,,27,High School or Below,male,29
+215,paidoff,1000,30,9/12/2016,10/11/2016,9/16/2016 2:34,,35,High School or Below,male,4
+216,paidoff,1000,30,9/12/2016,11/10/2016,11/10/2016 16:00,,29,college,female,59
+217,paidoff,1000,15,9/12/2016,9/26/2016,9/21/2016 8:11,,50,High School or Below,male,9
+218,paidoff,800,15,9/12/2016,9/26/2016,9/26/2016 9:00,,31,High School or Below,female,14
+219,paidoff,1000,15,9/12/2016,9/26/2016,9/26/2016 13:00,,31,High School or Below,male,14
+220,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 13:01,,29,High School or Below,male,29
+221,paidoff,1000,15,9/12/2016,9/26/2016,9/26/2016 23:00,,35,college,male,14
+222,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 9:01,,39,college,male,29
+223,paidoff,1000,30,9/12/2016,11/10/2016,11/10/2016 13:00,,29,college,male,59
+224,paidoff,1000,15,9/12/2016,9/26/2016,9/26/2016 23:00,,30,High School or Below,male,14
+225,paidoff,1000,30,9/12/2016,10/11/2016,10/9/2016 10:00,,33,Bachelor,male,27
+226,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 13:01,,26,High School or Below,male,29
+227,paidoff,1000,15,9/12/2016,9/26/2016,9/23/2016 14:01,,25,High School or Below,male,11
+228,paidoff,800,15,9/12/2016,9/26/2016,9/25/2016 13:29,,37,Bachelor,male,13
+229,paidoff,800,15,9/12/2016,9/26/2016,9/25/2016 14:50,,26,High School or Below,male,13
+230,paidoff,800,15,9/12/2016,9/26/2016,9/26/2016 9:00,,26,college,male,14
+231,paidoff,1000,15,9/12/2016,10/26/2016,10/26/2016 9:00,,27,college,male,44
+232,paidoff,1000,7,9/12/2016,9/25/2016,9/25/2016 9:01,,34,college,female,13
+233,paidoff,1000,30,9/12/2016,10/11/2016,10/8/2016 15:35,,37,college,male,26
+234,paidoff,1000,30,9/12/2016,10/11/2016,10/11/2016 16:01,,36,High School or Below,male,29
+235,paidoff,800,15,9/12/2016,9/26/2016,9/26/2016 19:35,,33,High School or Below,male,14
+236,paidoff,1000,30,9/12/2016,10/11/2016,10/9/2016 21:28,,30,High School or Below,male,27
+237,paidoff,1000,30,9/12/2016,10/11/2016,10/7/2016 16:45,,30,college,male,25
+238,paidoff,800,15,9/12/2016,9/26/2016,9/24/2016 12:13,,36,High School or Below,male,12
+239,paidoff,1000,15,9/12/2016,10/11/2016,10/11/2016 9:01,,29,college,male,29
+240,paidoff,1000,15,9/12/2016,9/26/2016,9/14/2016 23:02,,36,High School or Below,male,2
+241,paidoff,1000,30,9/12/2016,10/11/2016,10/8/2016 11:03,,32,High School or Below,male,26
+242,paidoff,1000,15,9/12/2016,9/26/2016,9/26/2016 9:00,,29,High School or Below,female,14
+243,paidoff,800,15,9/12/2016,9/26/2016,9/26/2016 23:00,,36,Bachelor,male,14
+244,paidoff,800,15,9/12/2016,9/26/2016,9/25/2016 19:31,,30,High School or Below,female,13
+245,paidoff,1000,7,9/13/2016,9/19/2016,9/14/2016 19:48,,31,college,male,1
+246,paidoff,1000,30,9/13/2016,10/12/2016,10/12/2016 23:00,,19,High School or Below,female,29
+247,paidoff,800,15,9/13/2016,9/27/2016,9/25/2016 12:48,,26,college,male,12
+248,paidoff,800,15,9/13/2016,9/27/2016,9/26/2016 21:18,,34,High School or Below,male,13
+249,paidoff,1000,30,9/13/2016,10/12/2016,10/7/2016 10:22,,35,High School or Below,male,24
+250,paidoff,1000,15,9/13/2016,9/27/2016,9/26/2016 6:17,,35,Bachelor,female,13
+251,paidoff,800,15,9/13/2016,9/27/2016,9/22/2016 16:57,,38,college,male,9
+252,paidoff,1000,30,9/13/2016,10/12/2016,10/9/2016 21:57,,29,college,male,26
+253,paidoff,1000,30,9/13/2016,10/12/2016,10/4/2016 12:59,,28,High School or Below,male,21
+254,paidoff,500,7,9/13/2016,9/19/2016,9/17/2016 20:51,,22,High School or Below,male,4
+255,paidoff,1000,30,9/13/2016,10/12/2016,10/12/2016 23:00,,32,college,male,29
+256,paidoff,1000,30,9/13/2016,10/12/2016,10/8/2016 15:51,,31,college,male,25
+257,paidoff,800,15,9/13/2016,9/27/2016,9/27/2016 9:00,,28,college,male,14
+258,paidoff,1000,15,9/13/2016,9/27/2016,9/27/2016 9:00,,37,college,female,14
+259,paidoff,1000,7,9/13/2016,9/19/2016,9/16/2016 15:57,,25,college,male,3
+260,paidoff,1000,30,9/13/2016,10/12/2016,10/12/2016 9:00,,19,High School or Below,male,29
+261,paidoff,800,15,9/13/2016,9/27/2016,9/26/2016 7:48,,51,college,male,13
+262,paidoff,1000,15,9/13/2016,9/27/2016,9/21/2016 16:53,,29,High School or Below,male,8
+263,paidoff,800,30,9/13/2016,10/12/2016,10/11/2016 0:29,,23,college,female,28
+264,paidoff,1000,15,9/13/2016,9/27/2016,9/25/2016 10:37,,30,High School or Below,male,12
+265,paidoff,800,15,9/13/2016,9/27/2016,9/27/2016 13:00,,23,college,male,14
+266,paidoff,1000,15,9/13/2016,9/27/2016,9/26/2016 15:10,,34,Bachelor,female,13
+267,paidoff,800,15,9/13/2016,9/27/2016,9/24/2016 12:46,,31,Bachelor,female,11
+268,paidoff,1000,15,9/14/2016,9/28/2016,9/28/2016 9:00,,24,High School or Below,male,14
+269,paidoff,1000,30,9/14/2016,10/13/2016,10/13/2016 9:00,,42,High School or Below,male,29
+270,paidoff,800,30,9/14/2016,10/13/2016,10/6/2016 12:09,,40,college,female,22
+271,paidoff,1000,30,9/14/2016,10/13/2016,10/14/2016 11:03,,29,High School or Below,male,30
+272,paidoff,1000,30,9/14/2016,10/13/2016,10/8/2016 17:12,,32,college,female,24
+273,paidoff,1000,30,9/14/2016,11/12/2016,11/12/2016 9:00,,28,college,male,59
+274,paidoff,1000,30,9/14/2016,10/13/2016,10/13/2016 9:00,,35,High School or Below,male,29
+275,paidoff,1000,30,9/14/2016,10/13/2016,10/13/2016 13:00,,30,Bachelor,male,29
+276,paidoff,800,15,9/14/2016,9/28/2016,9/27/2016 15:52,,44,college,male,13
+277,paidoff,800,15,9/14/2016,9/28/2016,9/28/2016 13:00,,37,High School or Below,male,14
+278,paidoff,1000,30,9/14/2016,10/13/2016,10/13/2016 9:00,,31,college,male,29
+279,paidoff,800,15,9/14/2016,9/28/2016,9/15/2016 0:43,,36,college,male,1
+280,paidoff,800,30,9/14/2016,10/13/2016,10/10/2016 10:25,,31,college,male,26
+281,paidoff,800,15,9/14/2016,9/28/2016,9/27/2016 20:41,,42,High School or Below,male,13
+282,paidoff,1000,15,9/14/2016,9/28/2016,9/28/2016 9:00,,28,Bachelor,male,14
+283,paidoff,1000,30,9/14/2016,10/13/2016,10/6/2016 6:51,,30,college,male,22
+284,paidoff,1000,30,9/14/2016,10/13/2016,10/12/2016 6:25,,30,High School or Below,male,28
+285,paidoff,1000,15,9/14/2016,9/28/2016,9/27/2016 22:50,,24,Bachelor,male,13
+286,paidoff,1000,30,9/14/2016,11/12/2016,11/12/2016 9:00,,34,Bachelor,male,59
+287,paidoff,1000,30,9/14/2016,10/13/2016,10/12/2016 12:30,,29,college,male,28
+288,paidoff,1000,30,9/14/2016,10/13/2016,10/12/2016 3:49,,38,High School or Below,female,28
+289,paidoff,1000,30,9/14/2016,10/13/2016,10/13/2016 13:00,,34,Bachelor,male,29
+290,paidoff,800,15,9/14/2016,9/28/2016,9/27/2016 7:48,,28,High School or Below,male,13
+291,paidoff,1000,15,9/14/2016,9/28/2016,9/22/2016 9:28,,30,college,female,8
+292,paidoff,1000,30,9/14/2016,10/13/2016,10/11/2016 16:33,,41,High School or Below,male,27
+293,paidoff,1000,30,9/14/2016,10/13/2016,9/18/2016 16:56,,29,college,male,4
+294,paidoff,1000,30,9/14/2016,10/13/2016,10/13/2016 9:00,,37,High School or Below,male,29
+295,paidoff,1000,30,9/14/2016,10/13/2016,10/13/2016 13:00,,36,Bachelor,male,29
+296,paidoff,1000,30,9/14/2016,10/13/2016,10/13/2016 13:00,,30,college,female,29
+297,paidoff,800,15,9/14/2016,9/28/2016,9/21/2016 4:42,,27,college,male,7
+298,paidoff,1000,30,9/14/2016,10/13/2016,10/13/2016 9:00,,29,High School or Below,male,29
+299,paidoff,1000,30,9/14/2016,10/13/2016,10/13/2016 9:00,,40,High School or Below,male,29
+300,paidoff,1000,30,9/14/2016,10/13/2016,10/13/2016 11:00,,28,college,male,29
+301,collection,1000,15,9/9/2016,9/23/2016,1/1/1900 0:00,76,29,college,male,
+302,collection,1000,30,9/9/2016,10/8/2016,1/1/1900 0:00,61,37,High School or Below,male,
+303,collection,1000,30,9/9/2016,10/8/2016,1/1/1900 0:00,61,33,High School or Below,male,
+304,collection,800,15,9/9/2016,9/23/2016,1/1/1900 0:00,76,27,college,male,
+305,collection,800,15,9/9/2016,9/23/2016,1/1/1900 0:00,76,24,Bachelor,male,
+306,collection,1000,15,9/10/2016,9/24/2016,1/1/1900 0:00,75,31,High School or Below,female,
+307,collection,800,15,9/10/2016,10/9/2016,1/1/1900 0:00,60,28,college,male,
+308,collection,1000,30,9/10/2016,10/9/2016,1/1/1900 0:00,60,40,High School or Below,male,
+309,collection,1000,30,9/10/2016,10/9/2016,1/1/1900 0:00,60,33,college,male,
+310,collection,800,15,9/10/2016,9/24/2016,1/1/1900 0:00,75,41,college,male,
+311,collection,1000,30,9/10/2016,10/9/2016,1/1/1900 0:00,60,30,college,male,
+312,collection,800,15,9/10/2016,9/24/2016,1/1/1900 0:00,75,26,High School or Below,female,
+313,collection,1000,30,9/10/2016,10/9/2016,1/1/1900 0:00,60,27,High School or Below,male,
+314,collection,1000,30,9/10/2016,10/9/2016,1/1/1900 0:00,60,20,High School or Below,male,
+315,collection,1000,30,9/10/2016,10/9/2016,1/1/1900 0:00,60,24,college,male,
+316,collection,1000,15,9/10/2016,10/9/2016,1/1/1900 0:00,60,26,High School or Below,male,
+317,collection,1000,30,9/10/2016,10/9/2016,1/1/1900 0:00,60,30,High School or Below,male,
+318,collection,1000,15,9/10/2016,9/24/2016,1/1/1900 0:00,75,29,High School or Below,male,
+319,collection,1000,30,9/10/2016,10/9/2016,1/1/1900 0:00,60,22,Bachelor,male,
+320,collection,1000,15,9/10/2016,9/24/2016,1/1/1900 0:00,75,24,Bachelor,male,
+321,collection,1000,30,9/10/2016,10/9/2016,1/1/1900 0:00,60,25,college,male,
+322,collection,1000,30,9/10/2016,10/9/2016,1/1/1900 0:00,60,28,High School or Below,male,
+323,collection,1000,30,9/10/2016,10/9/2016,1/1/1900 0:00,60,37,college,male,
+324,collection,800,15,9/10/2016,9/24/2016,1/1/1900 0:00,75,32,college,male,
+325,collection,1000,15,9/10/2016,9/24/2016,1/1/1900 0:00,75,34,college,male,
+326,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,28,Bachelor,male,
+327,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,35,Bachelor,male,
+328,collection,1000,30,9/11/2016,11/9/2016,1/1/1900 0:00,29,27,college,male,
+329,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,24,High School or Below,female,
+330,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,44,Bachelor,male,
+331,collection,1000,15,9/11/2016,10/25/2016,1/1/1900 0:00,44,31,college,male,
+332,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,27,college,male,
+333,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,21,High School or Below,male,
+334,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,30,High School or Below,female,
+335,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,38,college,female,
+336,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,34,High School or Below,male,
+337,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,31,college,male,
+338,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,23,High School or Below,male,
+339,collection,1000,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,27,college,female,
+340,collection,1000,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,39,High School or Below,male,
+341,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,30,High School or Below,female,
+342,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,25,college,male,
+343,collection,1000,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,50,Master or Above,male,
+344,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,23,High School or Below,male,
+345,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,38,Bachelor,male,
+346,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,27,High School or Below,male,
+347,collection,1000,30,9/11/2016,11/9/2016,1/1/1900 0:00,29,31,High School or Below,male,
+348,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,40,college,male,
+349,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,32,High School or Below,male,
+350,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,29,college,male,
+351,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,26,High School or Below,male,
+352,collection,1000,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,25,college,male,
+353,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,35,High School or Below,male,
+354,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,41,High School or Below,male,
+355,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,37,High School or Below,male,
+356,collection,1000,15,9/11/2016,10/10/2016,1/1/1900 0:00,59,34,college,male,
+357,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,45,High School or Below,male,
+358,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,26,Bachelor,male,
+359,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,32,college,male,
+360,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,28,High School or Below,male,
+361,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,34,college,male,
+362,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,29,High School or Below,male,
+363,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,26,High School or Below,male,
+364,collection,1000,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,26,college,male,
+365,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,22,college,male,
+366,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,27,High School or Below,female,
+367,collection,800,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,33,High School or Below,male,
+368,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,28,Bachelor,male,
+369,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,24,college,male,
+370,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,37,High School or Below,male,
+371,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,36,High School or Below,male,
+372,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,18,college,male,
+373,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,25,High School or Below,male,
+374,collection,1000,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,40,High School or Below,male,
+375,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,29,college,male,
+376,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,26,High School or Below,female,
+377,collection,1000,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,30,college,male,
+378,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,33,college,male,
+379,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,30,college,male,
+380,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,32,college,male,
+381,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,25,High School or Below,male,
+382,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,35,High School or Below,male,
+383,collection,1000,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,30,Bachelor,male,
+384,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,26,High School or Below,male,
+385,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,29,High School or Below,male,
+386,collection,1000,30,9/11/2016,11/9/2016,1/1/1900 0:00,29,26,High School or Below,male,
+387,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,46,High School or Below,male,
+388,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,36,High School or Below,male,
+389,collection,1000,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,38,Bachelor,male,
+390,collection,1000,15,9/11/2016,10/25/2016,1/1/1900 0:00,44,32,High School or Below,male,
+391,collection,1000,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,30,college,male,
+392,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,35,High School or Below,male,
+393,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,29,college,female,
+394,collection,1000,30,9/11/2016,11/9/2016,1/1/1900 0:00,29,26,college,male,
+395,collection,800,15,9/11/2016,9/25/2016,1/1/1900 0:00,74,32,High School or Below,male,
+396,collection,1000,30,9/11/2016,10/10/2016,1/1/1900 0:00,59,25,High School or Below,male,
+397,collection,1000,30,9/12/2016,10/11/2016,1/1/1900 0:00,58,33,High School or Below,male,
+398,collection,800,15,9/12/2016,9/26/2016,1/1/1900 0:00,73,39,college,male,
+399,collection,1000,30,9/12/2016,11/10/2016,1/1/1900 0:00,28,28,college,male,
+400,collection,1000,30,9/12/2016,10/11/2016,1/1/1900 0:00,58,26,college,male,
+401,collection_paidoff,1000,30,9/9/2016,10/8/2016,10/10/2016 11:45,2,26,college,male,31
+402,collection_paidoff,1000,15,9/9/2016,9/23/2016,9/27/2016 17:00,4,28,college,male,18
+403,collection_paidoff,1000,30,9/9/2016,11/7/2016,11/20/2016 14:10,13,39,college,male,72
+404,collection_paidoff,1000,15,9/9/2016,9/23/2016,9/28/2016 15:38,5,29,Bachelor,male,19
+405,collection_paidoff,800,15,9/9/2016,9/23/2016,9/26/2016 17:22,3,33,High School or Below,male,17
+406,collection_paidoff,1000,30,9/10/2016,10/9/2016,10/21/2016 14:00,12,27,college,male,41
+407,collection_paidoff,800,15,9/10/2016,9/24/2016,9/26/2016 11:03,2,34,college,male,16
+408,collection_paidoff,1000,30,9/10/2016,10/9/2016,11/5/2016 15:39,27,26,High School or Below,male,56
+409,collection_paidoff,1000,30,9/10/2016,10/9/2016,11/22/2016 15:53,44,28,High School or Below,male,73
+410,collection_paidoff,1000,15,9/10/2016,9/24/2016,9/29/2016 10:30,5,32,Bachelor,male,19
+411,collection_paidoff,800,15,9/10/2016,10/9/2016,10/10/2016 15:18,1,27,college,female,30
+412,collection_paidoff,1000,30,9/10/2016,10/9/2016,11/5/2016 10:49,27,21,college,male,56
+413,collection_paidoff,800,15,9/11/2016,9/25/2016,9/27/2016 17:10,2,39,college,male,16
+414,collection_paidoff,1000,15,9/11/2016,9/25/2016,9/26/2016 11:35,1,38,college,male,15
+415,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/12/2016 9:59,2,36,High School or Below,female,31
+416,collection_paidoff,800,15,9/11/2016,9/25/2016,9/27/2016 17:14,2,33,college,male,16
+417,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/11/2016 12:45,1,21,college,female,30
+418,collection_paidoff,800,15,9/11/2016,9/25/2016,9/28/2016 11:38,3,25,High School or Below,male,17
+419,collection_paidoff,800,15,9/11/2016,9/25/2016,10/7/2016 13:21,12,29,college,male,26
+420,collection_paidoff,1000,30,9/11/2016,10/10/2016,11/4/2016 15:37,25,33,High School or Below,male,54
+421,collection_paidoff,1000,15,9/11/2016,9/25/2016,9/28/2016 17:39,3,47,High School or Below,female,17
+422,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/12/2016 9:52,2,33,college,male,31
+423,collection_paidoff,800,15,9/11/2016,9/25/2016,9/29/2016 15:12,4,23,High School or Below,male,18
+424,collection_paidoff,1000,15,9/11/2016,10/10/2016,10/12/2016 11:17,2,24,college,male,31
+425,collection_paidoff,1000,30,9/11/2016,11/9/2016,11/10/2016 22:58,1,27,High School or Below,male,60
+426,collection_paidoff,1000,30,9/11/2016,10/10/2016,11/3/2016 15:23,24,32,Bachelor,male,53
+427,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/11/2016 16:44,1,33,college,male,30
+428,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/11/2016 11:02,2,27,college,female,30
+429,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/12/2016 13:17,2,35,High School or Below,male,31
+430,collection_paidoff,500,15,9/11/2016,10/10/2016,10/11/2016 17:22,1,37,Bachelor,male,30
+431,collection_paidoff,800,15,9/11/2016,9/25/2016,9/28/2016 14:02,3,28,Bachelor,male,17
+432,collection_paidoff,1000,15,9/11/2016,9/25/2016,9/29/2016 13:42,4,33,college,male,18
+433,collection_paidoff,800,7,9/11/2016,9/17/2016,9/19/2016 15:00,2,34,Bachelor,female,8
+434,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/12/2016 14:32,2,29,college,male,31
+435,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/11/2016 11:33,1,34,Bachelor,male,30
+436,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/11/2016 16:27,1,29,Bachelor,male,30
+437,collection_paidoff,1000,30,9/11/2016,10/10/2016,11/15/2016 15:27,36,24,High School or Below,male,65
+438,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/11/2016 16:13,1,34,High School or Below,male,30
+439,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/17/2016 10:06,7,25,college,female,36
+440,collection_paidoff,1000,30,9/11/2016,11/9/2016,11/14/2016 13:15,5,24,college,male,64
+441,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/24/2016 16:20,14,30,college,male,43
+442,collection_paidoff,1000,15,9/11/2016,9/25/2016,9/27/2016 16:35,2,28,college,male,16
+443,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/11/2016 11:48,1,24,High School or Below,male,30
+444,collection_paidoff,1000,30,9/11/2016,10/10/2016,11/7/2016 19:21,28,26,college,female,57
+445,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/12/2016 16:22,2,24,High School or Below,male,31
+446,collection_paidoff,1000,15,9/11/2016,9/25/2016,9/27/2016 17:24,2,29,college,male,16
+447,collection_paidoff,1000,30,9/11/2016,10/10/2016,11/4/2016 11:07,25,31,college,male,54
+448,collection_paidoff,1000,30,9/11/2016,10/10/2016,11/2/2016 9:39,23,26,college,male,52
+449,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/13/2016 18:18,3,25,High School or Below,male,32
+450,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/11/2016 11:29,1,29,college,male,30
+451,collection_paidoff,1000,30,9/11/2016,10/10/2016,10/13/2016 16:27,3,38,college,male,32
+452,collection_paidoff,800,15,9/11/2016,9/25/2016,9/29/2016 11:19,4,41,college,male,18
+453,collection_paidoff,1000,15,9/11/2016,9/25/2016,9/28/2016 11:17,3,26,High School or Below,male,17
+454,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/14/2016 11:04,3,26,High School or Below,male,32
+455,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/17/2016 17:40,6,35,High School or Below,male,35
+456,collection_paidoff,1000,15,9/12/2016,9/26/2016,9/28/2016 9:42,2,37,college,male,16
+457,collection_paidoff,1000,30,9/12/2016,10/11/2016,11/18/2016 15:52,38,25,college,male,67
+458,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/30/2016 14:19,19,24,college,male,48
+459,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/13/2016 15:10,2,34,college,male,31
+460,collection_paidoff,800,15,9/12/2016,9/26/2016,9/28/2016 13:36,2,33,college,male,16
+461,collection_paidoff,800,15,9/12/2016,9/26/2016,9/28/2016 15:34,2,38,Bachelor,male,16
+462,collection_paidoff,1000,30,9/12/2016,11/10/2016,11/17/2016 11:55,7,38,High School or Below,male,66
+463,collection_paidoff,1000,30,9/12/2016,11/10/2016,11/15/2016 18:51,5,26,college,male,64
+464,collection_paidoff,1000,15,9/12/2016,9/26/2016,9/30/2016 10:23,4,37,Bachelor,male,18
+465,collection_paidoff,1000,30,9/12/2016,11/10/2016,11/11/2016 17:17,1,42,High School or Below,female,60
+466,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/12/2016 12:54,1,49,High School or Below,female,30
+467,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/15/2016 9:48,4,26,High School or Below,male,33
+468,collection_paidoff,1000,15,9/12/2016,10/26/2016,10/27/2016 11:14,1,41,High School or Below,male,45
+469,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/15/2016 14:14,4,38,High School or Below,male,33
+470,collection_paidoff,1000,30,9/12/2016,10/11/2016,12/2/2016 9:45,52,26,High School or Below,male,81
+471,collection_paidoff,1000,15,9/12/2016,9/26/2016,9/28/2016 15:02,2,32,High School or Below,male,16
+472,collection_paidoff,1000,30,9/12/2016,10/11/2016,11/4/2016 14:46,24,27,Bachelor,male,53
+473,collection_paidoff,800,15,9/12/2016,9/26/2016,11/16/2016 12:12,51,33,college,male,65
+474,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/14/2016 19:02,3,30,High School or Below,male,32
+475,collection_paidoff,800,15,9/12/2016,9/26/2016,9/28/2016 11:34,2,26,High School or Below,female,16
+476,collection_paidoff,1000,30,9/12/2016,10/11/2016,11/9/2016 18:12,29,35,college,female,58
+477,collection_paidoff,800,15,9/12/2016,10/26/2016,10/31/2016 13:07,5,46,college,female,49
+478,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/20/2016 17:38,9,27,college,male,38
+479,collection_paidoff,1000,15,9/12/2016,10/11/2016,11/7/2016 8:55,27,22,High School or Below,male,56
+480,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/12/2016 18:26,1,27,Bachelor,male,30
+481,collection_paidoff,1000,15,9/12/2016,9/26/2016,10/25/2016 13:44,29,30,Bachelor,male,43
+482,collection_paidoff,1000,15,9/12/2016,9/26/2016,9/29/2016 15:07,3,27,High School or Below,male,17
+483,collection_paidoff,800,15,9/12/2016,9/26/2016,9/27/2016 11:40,1,47,college,male,15
+484,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/18/2016 19:08,7,30,college,male,36
+485,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/15/2016 9:23,4,26,college,male,33
+486,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/14/2016 10:07,3,38,High School or Below,male,32
+487,collection_paidoff,800,15,9/12/2016,9/26/2016,11/21/2016 11:36,56,46,High School or Below,male,70
+488,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/13/2016 12:02,2,35,Bachelor,male,31
+489,collection_paidoff,1000,15,9/12/2016,9/26/2016,10/9/2016 19:30,13,45,college,male,27
+490,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/12/2016 18:04,1,36,college,male,30
+491,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/17/2016 10:53,6,38,High School or Below,male,35
+492,collection_paidoff,1000,30,9/12/2016,10/11/2016,11/9/2016 13:41,29,27,college,male,58
+493,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/25/2016 17:44,14,27,Bachelor,male,43
+494,collection_paidoff,1000,15,9/12/2016,9/26/2016,9/29/2016 12:45,3,29,college,male,17
+495,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/13/2016 14:45,2,30,High School or Below,male,31
+496,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/14/2016 19:08,3,28,High School or Below,male,32
+497,collection_paidoff,1000,15,9/12/2016,9/26/2016,10/10/2016 20:02,14,26,High School or Below,male,28
+498,collection_paidoff,800,15,9/12/2016,9/26/2016,9/29/2016 11:49,3,30,college,male,17
+499,collection_paidoff,1000,30,9/12/2016,11/10/2016,11/11/2016 22:40,1,38,college,female,60
+500,collection_paidoff,1000,30,9/12/2016,10/11/2016,10/19/2016 11:58,8,28,High School or Below,male,37
